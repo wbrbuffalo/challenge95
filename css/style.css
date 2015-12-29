@@ -447,7 +447,7 @@
 		}
 
 		.icon > .label {
-			display: none;
+			display: none !important;
 		}
 
 		.icon.major {
