@@ -425,6 +425,9 @@
 			border-radius: 0;
 			padding: 0;
 		}
+	.box h3 { 
+		color:#e01737;
+	}
 
 /* Icon */
 
@@ -894,6 +897,9 @@
 				.wrapper.style2 .button.alt.icon:before {
 					color: #a3a5a7;
 				}
+			.wrapper.style2 p{
+				color:#ffffff;
+			}
 
 
 /* Header */
