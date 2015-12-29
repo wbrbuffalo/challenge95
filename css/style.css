@@ -428,6 +428,9 @@
 	.box h3 { 
 		color:#e01737 !important;
 	}
+	.quote{
+		font-style:italic;
+	}
 
 /* Icon */
 
