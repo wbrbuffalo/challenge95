@@ -740,7 +740,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #232d33;
+			background:rgba(144, 144, 144, 0.75) none repeat scroll 0 0;
 		}
 
 		input[type="submit"]:active,
