@@ -716,7 +716,7 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background:#222 url("http://www.worldbicyclerelief.org/templates/wbr/images/header-bg.png") repeat-x scroll left top;
+		background:rgba(144, 144, 144, 0.5) none repeat scroll 0 0;
 		border-radius: 6px;
 		border: 0;
 		color: #ffffff !important;
