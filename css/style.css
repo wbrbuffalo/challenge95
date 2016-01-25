@@ -822,7 +822,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		input[type="button"].special,
-		.button.special {
+		.button.special,
+        .hs-button{
 			background: url(http://www.worldbicyclerelief.org/templates/wbr/images/sbxss-titlebg.png) no-repeat left top scroll #e01737;
 			/**background-color: #e01737;**/
 			color: #ffffff !important;
@@ -831,14 +832,16 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
-			.button.special:hover {
+			.button.special:hover,
+            .hs-button:hover{
 				background-color: #76a9d7;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
-			.button.special:active {
+			.button.special:active,
+            .hs-button:active{
 				background-color: #4e91cb;
 			}
 
@@ -848,7 +851,7 @@
 		input[type="button"].disabled,
 		input[type="button"]:disabled,
 		.button.disabled,
-		.button:disabled {
+		.button:disabled{
 			background-color: #555f66 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #fff !important;
