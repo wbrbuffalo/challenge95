@@ -829,6 +829,10 @@
 			color: #ffffff !important;
 		}
 
+        .hs-button {
+            margin-top: 1em;
+        }
+
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
