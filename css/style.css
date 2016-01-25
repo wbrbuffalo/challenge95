@@ -824,7 +824,7 @@
 		input[type="button"].special,
 		.button.special,
         .hs-button{
-			background: url(http://www.worldbicyclerelief.org/templates/wbr/images/sbxss-titlebg.png) no-repeat left top scroll #e01737;
+			background: url(http://www.worldbicyclerelief.org/templates/wbr/images/sbxss-titlebg.png) no-repeat left top scroll #e01737 !important;
 			/**background-color: #e01737;**/
 			color: #ffffff !important;
 		}
