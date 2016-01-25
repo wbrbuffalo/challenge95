@@ -705,8 +705,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
-	.button,
-    .hs-button{
+	.button{
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-o-appearance: none;
