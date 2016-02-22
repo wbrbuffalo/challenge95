@@ -1152,3 +1152,6 @@
 			float:right;
 			width:25%;
 		}
+		.auth-meta {
+    display:none !important;
+}
