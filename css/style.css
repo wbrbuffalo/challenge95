@@ -1169,3 +1169,9 @@
 			float:right;
 			width:25%;
 		}
+
+
+/**extras**/
+.auth-meta {
+    display:none !important;
+}
